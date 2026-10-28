@@ -4,7 +4,17 @@ class Aula12
 {
     static void Main()
     {
-     // IF < > || && === !=
-     // IF   
+        // IF < > || && === !=
+        int num = 10;
+        string resultado = "Errou bonito lindão";
+        
+        if (num < 10)
+        {
+            Console.WriteLine("Está certo parceiro!!!");
+        }
+        else
+        {
+            Console.WriteLine("{0}", resultado);
+        };
     }
 }
