@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj": {}
+    "c:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj": {
+    "c:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj",
+        "projectUniqueName": "c:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj",
         "projectName": "aula10",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj",
+        "projectPath": "c:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\aula10.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\obj\\",
+        "outputPath": "c:\\Users\\user\\OneDrive\\Documentos\\Tohan Estudios\\Programação\\Estudos\\.NET\\C#\\aula10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
