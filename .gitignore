@@ -1,0 +1,8 @@
+# Arquivos gerados pela compilação do .NET
+bin/
+obj/
+
+# Arquivos do Visual Studio / VS Code
+.vs/
+*.user
+*.suo
